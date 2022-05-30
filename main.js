@@ -1,6 +1,6 @@
 $(window).on('load', function () {
-    let h1 = $('<h1>My restaurant page</h1>')
-    $('#content').append(h1)
+    let h3 = $('<h3> My restaurant page </h3>')
+    $('#content').append(h3)
     $('#content').append('<img id="theImg" src="./image1.jpg" />')
 });
 
