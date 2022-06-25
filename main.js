@@ -6,12 +6,10 @@ function restaurantPage() {
     header.textContent = "Aquarium Restaurant";
     titleDiv.className = "title-div";
     container.append(header);
-    //titleDiv.append(titleDiv);
+    titleDiv.append(titleDiv);
 
     let tabs = $("<div></div>");
     tabs.className = "tabs";
-
-  
 
     let tabButton1 = $("<div class='button1'></div>");
     let tabButton2 = $("<div class='button2'></div>");

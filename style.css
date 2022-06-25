@@ -15,7 +15,7 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 50px;
+  font-size: 55px;
 }
 
 p {
@@ -25,12 +25,6 @@ p {
   border-radius: 100px;
   font-size: x-large;
   padding: 20px;
-}
-
-.tabs {
-  width: 100%;
-  margin: auto;
-  margin-top: 30px;
 }
 
 .tab-div {
@@ -48,8 +42,9 @@ p {
 .button2,
 .button3 {
   display: inline-flex;
-  margin: 5px;
+  margin: 5px; 
 }
+
 
 .tab-button {
   padding: 15px;
